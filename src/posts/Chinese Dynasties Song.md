@@ -13,16 +13,16 @@ I have included it here if anyone is interested.
 
 It is sung to the tune of "Mary Had a Little Lamb."
 
+> Shang, Zhou, Qin, Han   
 > Shang, Zhou, Qin, Han 
-> Shang, Zhou, Qin, Han 
 
+> Sui, Tang, Song     
 > Sui, Tang, Song 
-> Sui, Tang, Song 
 
->Yuan, Ming, Qing, Republic 
+>Yuan, Ming, Qing, Republic   
 >Yuan, Ming, Qing, Republic 
 
->Mao Zedong
+>Mao Zedong  
 >Mao Zedong
 
 
