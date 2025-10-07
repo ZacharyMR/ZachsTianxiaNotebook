@@ -1,7 +1,7 @@
 ---
 layout: blog.njk
 title: "Applying to Graduate School"
-date: 2025-01-07
+date: 2025-10-06
 tags: ["posts"]
 ---
 
