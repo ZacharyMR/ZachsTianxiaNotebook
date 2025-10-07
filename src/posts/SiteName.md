@@ -1,16 +1,21 @@
 ---
 layout: blog.njk
-title: "Applying to Graduate School"
+title: "What's Tianxia?"
 date: 2025-10-06
 tags: ["posts"]
 ---
 
-# Why?
+# What is Tianxia?
 
-When I was away in Asia last year, I was given the advice that to pursue a career in Asian Policy/International Relations, I simply **must** obtain a master's degree. That is fine by me. I think I would really enjoy pursuing one of these. However, the whole application process is incredibly daunting. 
+The Chinese word Tianxia (天下), which I included as part of this site's title, translates to "All Under Heaven."
 
-## What's With Recommendation Letters?
+More specifically, it can be broken down into its two component characters: **天**, meaning sky, and **下**, meaning under or below. 
 
-Why does anyone care what my old boss has to say? I'm not sure if my experience serving chicken parmesan to customers can really be that influential for my future prospects in policy. But nevertheless, it was a bit nerve-racking to try to find professors and employers who would write and submit me a reference. Don't get me wrong - they have no reason not to write me one, but what if they are too busy, it's been too long, or they just don't feel like filling out 10 different submission forms? Personally, I think this whole process is by far the most daunting and annoying part of the whole application. 
+In ancient times, it referred to the whole known world. Or at least what the people in the region we now call China thought was the world anyway...
+
+People in ancient China (and for much of the imperial period) saw 天下 as representing the **cosmic and moral order** of the world. And subsequently viewed the Emperor<sup>1</sup> as ruling "All Under Heaven."
 
 
+
+-----
+<sup>1</sup> Technically speaking, the first emperor of China was Qin Shi Huang Di, founder of the Qin Dynasty. So, the people using the Tianxia before this weren't exactly dealing with emperors (e.g., during the Zhou dynasty), but you get the idea.
