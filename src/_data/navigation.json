@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "Resources for College Students & Teachers",
+      "items": [
+        { "title": "Index of China-Related Resources", "url": "/china.html" },
+        { "title": "Index of Non-China-Related Resources", "url": "/nonchina.html" },
+        { "title": "Stories for College Teaching", "url": "/stories.html" },
+        { "title": "Test Your Browser & Fonts", "url": "/browser-test.html" }
+      ]
+    },
+    {
+      "title": "Curriculum Vitae & Similar Stuff",
+      "items": [
+        { "title": "Contact Information", "url": "/contact.html" },
+        { "title": "My Classes", "url": "/classes.html" },
+        { "title": "Curriculum Vitae & Publications", "url": "/cv.html" },
+        { "title": "Essays & Papers Available On-Line", "url": "/essays.html" }
+      ]
+    },
+    {
+      "title": "Interesting Languages",
+      "items": [
+        { "title": "Esperanto", "url": "/esperanto.html" },
+        { "title": "Nahuatl", "url": "/nahuatl.html" },
+        { "title": "Chinese", "url": "/chinese.html" }
+      ]
+    },
+    {
+      "title": "Other Stuff",
+      "items": [
+        { "title": "Local Museums", "url": "/museums.html" },
+        { "title": "Personal Stuff Page", "url": "/personal.html" },
+        { "title": "Holiday Pages", "url": "/seasonal.html" },
+        { "title": "Trivia Quiz Room", "url": "/quiz.html" },
+        { "title": "Alarms, Diversions, & Silly Bits", "url": "/silly.html" }
+      ]
+    }
+  ]
+}

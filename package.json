@@ -1,0 +1,17 @@
+{
+  "name": "dkj-template-11ty",
+  "version": "1.0.0",
+  "description": "DKJ-inspired minimalist academic website built with 11ty",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "dev": "eleventy --serve --watch"
+  },
+  "keywords": ["11ty", "eleventy", "academic", "website", "minimalist"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

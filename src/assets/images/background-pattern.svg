@@ -1,0 +1,27 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="chinese-pattern" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+      <!-- Background texture -->
+      <rect width="200" height="200" fill="#eddbbe"/>
+      
+      <!-- Subtle texture overlay -->
+      <circle cx="50" cy="50" r="1" fill="#e6d1b3" opacity="0.3"/>
+      <circle cx="150" cy="50" r="1" fill="#e6d1b3" opacity="0.3"/>
+      <circle cx="50" cy="150" r="1" fill="#e6d1b3" opacity="0.3"/>
+      <circle cx="150" cy="150" r="1" fill="#e6d1b3" opacity="0.3"/>
+      <circle cx="100" cy="100" r="1" fill="#e6d1b3" opacity="0.2"/>
+      
+      <!-- Chinese characters 天下 (under heaven) -->
+      <text x="100" y="70" font-family="serif" font-size="48" fill="#d4c4a8" text-anchor="middle" opacity="0.4">天</text>
+      <text x="100" y="120" font-family="serif" font-size="48" fill="#d4c4a8" text-anchor="middle" opacity="0.4">下</text>
+      
+      <!-- Additional subtle texture points -->
+      <circle cx="25" cy="25" r="0.5" fill="#e6d1b3" opacity="0.2"/>
+      <circle cx="175" cy="25" r="0.5" fill="#e6d1b3" opacity="0.2"/>
+      <circle cx="25" cy="175" r="0.5" fill="#e6d1b3" opacity="0.2"/>
+      <circle cx="175" cy="175" r="0.5" fill="#e6d1b3" opacity="0.2"/>
+    </pattern>
+  </defs>
+  
+  <rect width="200" height="200" fill="url(#chinese-pattern)"/>
+</svg>
