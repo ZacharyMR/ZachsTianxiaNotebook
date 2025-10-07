@@ -1,26 +1,16 @@
 ---
 layout: blog.njk
-title: "Welcome to My Blog"
+title: "Applying to Graduate School"
 date: 2025-01-07
 tags: ["posts"]
 ---
 
-# Welcome to My Blog
+# Why?
 
-This is my first blog post! I've created a simple, clean blog using Eleventy with a beautiful minimalist design.
+When I was away in Asia last year, I was given the advice that to pursue a career in Asian Policy/International Relations, I simply **must** obtain a master's degree. That is fine by me. I think I would really enjoy pursuing one of these. However, the whole application process is incredibly daunting. 
 
-## Features
+## What's With Recommendation Letters?
 
-- **Markdown support** - Write posts in simple markdown
-- **Clean design** - Beautiful tan background and typography
-- **Fast loading** - No bloat, just content
-- **Easy to use** - Just create a new `.md` file in the `posts/` folder
+Why does anyone care what my old boss has to say? I'm not sure if my experience serving chicken parmesan to customers can really be that influential for my future prospects in policy. But nevertheless, it was a bit nerve-racking to try to find professors and employers who would write and submit me a reference. Don't get me wrong - they have no reason not to write me one, but what if they are too busy, it's been too long, or they just don't feel like filling out 10 different submission forms? Personally, I think this whole process is by far the most daunting and annoying part of the whole application. 
 
-## How to Add New Posts
 
-1. Create a new `.md` file in the `src/posts/` directory
-2. Add front matter with title, date, and tags
-3. Write your content in markdown
-4. The post will automatically appear on the homepage
-
-That's it! Simple and clean.
