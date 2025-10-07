@@ -7,7 +7,7 @@ tags: ["posts"]
 
 # What is Tianxia?
 
-The Chinese word Tianxia (**天下**), which I included as part of this site's title, translates to "All Under Heaven."
+The Chinese term Tianxia (**天下**), which I included as part of this site's title, translates to "All Under Heaven."
 
 More specifically, it can be broken down into its two component characters: **天**, meaning sky, and **下**, meaning under or below. 
 
